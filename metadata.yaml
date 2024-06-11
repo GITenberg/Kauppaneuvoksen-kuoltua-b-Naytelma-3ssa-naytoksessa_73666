@@ -1,0 +1,31 @@
+_repo: Kauppaneuvoksen-kuoltua-b-Naytelma-3ssa-naytoksessa_73666
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Talvio, Maila
+    alias: Mikkola, Maila Winter
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '39128'
+    url: http://www.gutenberg.org/2009/agents/39128
+    wikipedia: https://fi.wikipedia.org/wiki/Maila_Talvio
+description: ''
+gutenberg_issued: '2024-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73666'
+language: fi
+pgterms:marc905: 20231105054801talvio
+pgterms:marc906: '1905'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Kauppaneuvoksen kuoltua : $b Näytelmä 3:ssa näytöksessä'
+url: http://www.gutenberg.org/ebooks/73666
